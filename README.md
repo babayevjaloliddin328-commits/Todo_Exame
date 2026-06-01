@@ -37,3 +37,4 @@ npm run start
 - `PATCH /todos/:id` - vazifa holatini o'zgartirish
 - `DELETE /todos/:id` - vazifani o'chirish
 # Todo_Exame
+# Todo_Exame
