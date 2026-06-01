@@ -1,0 +1,40 @@
+{
+  "vazifalar": [
+    {
+      "id": 1,
+      "name": "Vazifa 1",
+      "description": "Uyga vazifani bakarish.",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Vazifa 2",
+      "description": "Uydagilarga yordam berish.",
+      "price": 15000
+    },
+    {
+      "id": 3,
+      "name": "Vazifa 3",
+      "description": "Kuchuk bilan sayir qilish.",
+      "price": 20000
+    },
+    {
+      "id": 4,
+      "name": "Vazifa 4",
+      "description": "Singillarni maktabga oborish.",
+      "price": 25000
+    },
+    {
+      "id": 5,
+      "name": "Vazifa 5",
+      "description": "Jiyanlarni maktabga oborish.",
+      "price": 30000
+    },
+    {
+     "id": 6,
+      "name": "Vazifa 6",
+      "description": "Uydagilarni Xajga yuborish.",
+      "price": 10000000000
+    }
+  ]
+}
